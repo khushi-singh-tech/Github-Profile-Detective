@@ -2,6 +2,8 @@ GitHub Profile Detective 🔍
 
 A React-based web application to fetch and display GitHub user profiles in a clean, organized, and interactive way. Quickly view repositories, followers, location, and profile details of any GitHub user.
 
+Live Demo : https://github-profile-detectiv.netlify.app/
+
 🛠 Features
 
 Search for any GitHub username.
