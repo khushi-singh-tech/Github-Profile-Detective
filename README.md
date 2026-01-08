@@ -65,6 +65,9 @@ Check the app online:
 
 <img width="1332" height="907" alt="image" src="https://github.com/user-attachments/assets/4e298002-107c-4ef7-a327-b7dd70da7e9e" />
 
+<img width="1582" height="914" alt="image" src="https://github.com/user-attachments/assets/0fe8980b-c9e0-4d0f-9913-a016632b23a8" />
+
+
 
 ⚙️ Usage
 
